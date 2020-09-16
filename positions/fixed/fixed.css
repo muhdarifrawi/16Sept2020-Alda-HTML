@@ -1,0 +1,17 @@
+.color1 {
+    background-color: gainsboro;
+    height:100vh;
+  }
+  .color2 {
+    background-color: gray;
+    height:100vh;
+  }
+  .bar {
+    background-color:red;
+    height:30px;
+    width:300px;
+    position:fixed;
+    top:30px;
+    /* left:100px; */
+    left:50vw;
+  }

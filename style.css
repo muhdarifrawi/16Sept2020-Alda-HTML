@@ -1,0 +1,57 @@
+html{
+    height:100%;
+}
+
+@font-face { font-family: Dragon; src: url('fonts/DRAGON-KIDS-BROKE.otf'); }
+
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color:rgb(204, 223, 252);
+    height:100%;
+}
+
+#section1{
+    font-family:Dragon, monospace;
+    background-color:purple;
+    color:white;
+    /* height:300px; */
+    /* width:300px; */
+    text-align:center;
+    font-weight:900;
+}
+
+#section1-info{
+    position:relative;
+    top:35%;
+}
+
+#section2{
+    font-family:monospace;
+    background-color:azure;
+    color:black;
+    /* height:100%;
+    width:30vw; */
+    text-align:center;
+}
+
+.box{
+    height:500px;
+    width:500px;
+}
+
+.bg-color{
+    background-color:azure;
+}
+
+#mpExample{
+    width:300px;
+    background-color:orange;
+    /* margin-top:100px; */
+    /* margin-left:500px;  */
+    /* margin: 100px 0 0 100px; */
+    /* padding-left: 500px; */
+    /* border-color:red;
+    border-width:5px;
+    border-style:solid; */
+    border: 5px dashed red;
+}

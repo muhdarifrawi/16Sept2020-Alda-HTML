@@ -1,0 +1,38 @@
+div {
+    height:300px;
+    width:300px;
+    
+  }
+  
+  .color1 {
+    background-color:gainsboro;
+  }
+  
+  .color2 {
+    background-color:gray;
+  }
+  
+  .color3 {
+    background-color:lime;
+  }
+  
+  .color4 {
+    background-color: lightseagreen;
+  }
+  
+  .resize {
+    width:75%;
+    height:75%; 
+  }
+  
+  .box {
+    height:200px;
+    width:200px;
+    background-color:red;
+  }
+  
+  .absolute{
+    position:absolute;
+    top:25px;
+    left:15px;
+  }
